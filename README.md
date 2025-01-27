@@ -1,5 +1,4 @@
 # CPE-322 Repository
-## CPE Design Class
 ### By Miguel Rodriguez
 ---
 > **Future Projects will be posted on here once they are completed**
