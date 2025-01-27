@@ -6,12 +6,12 @@
 ---
 1. GHDL and GTKWave
 - Due: Feb. 3rd @ 11:59 PM
-3. Command Line
-4. Python
-5. Django and Flask
-6. Paho-MQTT
-7. Node.js and Pystache
-8. ThingSpeak and Google Sheets
-9. Data Analysis
-10. YANG
-11. BLockchain
+2. Command Line
+3. Python
+4. Django and Flask
+5. Paho-MQTT
+6. Node.js and Pystache
+7. ThingSpeak and Google Sheets
+8. Data Analysis
+9. YANG
+10. BLockchain
