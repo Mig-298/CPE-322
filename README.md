@@ -3,6 +3,7 @@
 ---
 > **Future Projects will be posted on here once they are completed**
 ---
+~~0. GitHub Repository~~
 1. GHDL and GTKWave
 - Due: Feb. 3rd @ 11:59 PM
 2. Command Line
