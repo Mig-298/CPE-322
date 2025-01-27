@@ -1,5 +1,5 @@
 # CPE-322 Repository
-### By Miguel Rodriguez
+### By Miguel Rodriguez 
 ---
 > **Future Projects will be posted on here once they are completed**
 ---
