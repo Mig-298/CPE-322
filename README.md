@@ -1,9 +1,9 @@
-# CPE-322
+# CPE-322 Repository
 ## CPE Design Class
 ### By Miguel Rodriguez
-
-**Future Projects will be posted on here once they are completed**
-
+---
+> **Future Projects will be posted on here once they are completed**
+---
 1. GHDL and GTKWave
 - Due: Feb. 3rd @ 11:59 PM
 3. Command Line
