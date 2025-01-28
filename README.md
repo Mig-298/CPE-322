@@ -1,7 +1,8 @@
 # CPE-322 Repository
-### By Miguel Rodriguez 
+### *By Miguel Rodriguez*
 ---
 > **Future Projects will be posted on here once they are completed**
+> 
 ---
   ~~0. GitHub Repository~~
 - Due: Jan. 27th @ 11:59 PM
