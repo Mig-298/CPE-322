@@ -17,6 +17,7 @@
 9. YANG
 10. BLockchain
 
-'code'
+`code`
+
 [Link](https://github.com/Mig-298/CPE-322/edit/main/README.md)
 ![alt text](noise_plot.png)
