@@ -20,5 +20,5 @@
 
 `code`
 
-[Link](https://github.com/Mig-298/CPE-322/edit/main/README.md)
+[Team Project Website](https://begonia-prism-5lls.squarespace.com/)
 ![alt text](noise_plot.png)
