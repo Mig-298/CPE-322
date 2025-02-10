@@ -7,8 +7,8 @@ Needs that would justify an electrical and/or computer engineering problem-solvi
 
 **2. Develop a design proposal that justifies the need to develop a technical solution to a problem.**
 
-_Objective (why?)
-Background (who? where?)
-Methodology (how? when?)
-Expected Results (what?)
-Costs (how much will it cost?)_
+* _Objective (why?)
+*Background (who? where?)
+*Methodology (how? when?)
+*Expected Results (what?)
+*Costs (how much will it cost?)_
