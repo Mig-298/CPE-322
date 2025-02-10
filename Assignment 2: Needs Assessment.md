@@ -7,7 +7,7 @@ Needs that would justify an electrical and/or computer engineering problem-solvi
 
 **2. Develop a design proposal that justifies the need to develop a technical solution to a problem.**
 
-* **_Objective (why?)_** - 
+* **_Objective (why?)_** - Plastic waste is destroying the enviroment and polluting water sources, while being aleading cause in air pollution. 
 * **_Background (who? where?)_** - 
 * **_Methodology (how? when?)_** - 
 * **_Expected Results (what?)_** -
