@@ -10,5 +10,5 @@ Needs that would justify an electrical and/or computer engineering problem-solvi
 * **_Objective (why?)_** - 
 * **_Background (who? where?)_** - 
 * **_Methodology (how? when?)_** - 
-* **_Expected Results (what?)_** 
-* **_Costs (how much will it cost?)_** 
+* **_Expected Results (what?)_** -
+* **_Costs (how much will it cost?)_** -
