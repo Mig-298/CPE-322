@@ -18,7 +18,7 @@
 9. YANG
 10. BLockchain
 
-`code`
+`System.out.println("Welcome to my profile!");`
 
 [Team Project Website](https://begonia-prism-5lls.squarespace.com/)
 ![alt text](noise_plot.png)
