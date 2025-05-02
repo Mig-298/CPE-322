@@ -1,0 +1,1 @@
+This lab showed me how to run certain websites and how to change certain elements. It also allowed me to track certain features that the website might feature which may be useful for website creation in the future.
