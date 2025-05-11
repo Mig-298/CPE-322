@@ -1,0 +1,1 @@
+For the start of Lab 10, I concluded that the hash_value.py changes the hash for the python, tuple of vowels and object of person changes. This would make sense since we are running the code again and this will change the hashes for it.
