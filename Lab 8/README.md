@@ -1,0 +1,1 @@
+For this lab, I installed all of the necessary files that I needed to run the programs. Once I ran the Keras programs inside of powershell, it began to output a list of steps with different numbers with a loss and accuracy. I was able to include the screenshots in the folder to show the outputs of running all of the commands in the lab.
