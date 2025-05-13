@@ -1,1 +1,3 @@
-Throughout this lab, I encountered many problems attempting to start the program and the app itself. I think I have completed this lab completetly with the instructions given from the github.
+# Throughout this lab, I encountered many problems attempting to start the program and the app itself. I think I have completed this lab completetly with the instructions given from the github.
+
+### I understand the concept for this lab as it helps you create a clientside website that will produce different outcomes depdning on what you start inside of your terminal. I had successfully installed most of the libraries needed to complete this project but kept getting certain errors throughout my attempt to start my server and see the website. I was able to create the initial website to see the hello, world in the flask server.
